@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi, I'm Tadeáš 👋
+Aspiring fullstack developer and CS student at FI MUNI.
 
-<!--
-**TadeJin/TadeJin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Primary Tech Stack
+<div style="display: flex; align-items: center; gap: 20px;">
+    <a href="https://nextjs.org/"><img src="images/nextjs-icon.svg" alt="Next.js" width="50"/></a>
+    <a href="https://react.dev/"><img src="images/react-icon.svg" alt="React" width="50"/></a>
+    <a href="https://www.typescriptlang.org/"><img src="images/typescript-icon.svg" alt="TypeScript" width="50"/></a>
+    <a href="https://tailwindcss.com/"><img src="images/tailwind-logo.svg" alt="Tailwind" width="50"/></a>
+    <a href="https://www.prisma.io/"><img src="images/prisma-logo.svg" alt="Prisma" width="50" height="50"/></a>
+    <a href="https://www.postgresql.org/"><img src="images/postgresql-icon.svg" alt="PostgreSQL" width="50"/></a>
+    <a href="https://www.docker.com/"><img src="images/docker-logo.svg" alt="Docker" width="50"/></a>
+    <a href="https://git-scm.com/"><img src="images/git-icon.svg" alt="Git" width="50"/></a>
+</div>
