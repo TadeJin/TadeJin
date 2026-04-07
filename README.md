@@ -12,3 +12,6 @@ Aspiring fullstack developer and CS student at FI MUNI.
     <a href="https://www.docker.com/"><img src="images/docker-logo.svg" alt="Docker" width="50"/></a>
     <a href="https://git-scm.com/"><img src="images/git-icon.svg" alt="Git" width="50"/></a>
 </div>
+
+### 👨‍💻 Currently Working On
+[MyCloud 2.0](https://github.com/TadeJin/MyCloud-2.0) — a self-hosted cloud storage app built with Next.js, Prisma, PostgreSQL, and Docker.
