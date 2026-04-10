@@ -1,7 +1,7 @@
 ## Hi, I'm Tadeáš 👋
 Aspiring fullstack developer and CS student at FI MUNI.
 
-### 🛠️ Primary Tech Stack
+### 🛠️ Favorite Tech Stack
 <div style="display: flex; align-items: center; gap: 20px;">
     <a href="https://nextjs.org/"><img src="images/nextjs-icon.svg" alt="Next.js" width="50"/></a>
     <a href="https://react.dev/"><img src="images/react-icon.svg" alt="React" width="50"/></a>
